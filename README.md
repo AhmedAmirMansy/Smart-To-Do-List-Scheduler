@@ -228,12 +228,10 @@ Scenario 3: Strong Anti-Lateness
 Weights: w1=0.2, w2=0.1, w3=10
 • Heavily penalizes tardiness
 • Tasks must finish before deadlines
-
+• Some tasks may be intentionally excluded to avoid lateness
+<img width="878" height="526" alt="image" src="https://github.com/user-attachments/assets/94e0517a-7fd6-42cd-b569-914218ab7af5" />
 
 ---
-
 <p align="center">
   Built with ❤️ using Python, PuLP, and Tkinter
 </p>
-• Some tasks may be intentionally excluded to avoid lateness
-<img width="878" height="526" alt="image" src="https://github.com/user-attachments/assets/94e0517a-7fd6-42cd-b569-914218ab7af5" />
